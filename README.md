@@ -75,3 +75,5 @@ defensive testing,
 penetration tests with written permission, or
 
 on your own lab/staging environments.
+
+All credit for original version to: https://github.com/TRacer236
